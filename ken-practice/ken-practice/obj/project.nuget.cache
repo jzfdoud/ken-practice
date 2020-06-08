@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzdzrnkZ3P6eJgrvX6Th0+ObwJdwkPRe1BrznC1pkC/yRbR/dsOm1U7cYQ7+1PIzeU3Zb8c58nGzhX/1JIlbIA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\ken-practice\\ken-practice\\ken-practice\\ken-practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmdou\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
